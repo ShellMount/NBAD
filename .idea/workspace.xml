@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="47befcb3-c689-4bc5-9614-b0c90b9adccf" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DDoS/src/main/scala/cn/net/yunshan/nbad/DDoS/Config.scala" afterPath="$PROJECT_DIR$/DDoS/src/main/scala/cn/net/yunshan/nbad/DDoS/Config.scala" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -772,11 +771,18 @@
       <option name="project" value="LOCAL" />
       <updated>1500023306002</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="切换支持算法">
+      <created>1500024286150</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1500024286150</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="1370" height="735" extended-state="0" />
+    <frame x="-7" y="0" width="1370" height="735" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -867,7 +873,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="更新一个文件" />
     <MESSAGE value="更新一个文件2" />
-    <option name="LAST_COMMIT_MESSAGE" value="更新一个文件2" />
+    <MESSAGE value="切换支持算法" />
+    <option name="LAST_COMMIT_MESSAGE" value="切换支持算法" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
