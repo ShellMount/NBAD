@@ -41,7 +41,7 @@ object Config {
   // 模型算法
   // 支持算法：
   // NativeBayes, LogisticRegression, SVM
-  val algorithmModel = "SVM"
+  val algorithmModel = "NativeBayes"
 
   // 算法迭代次数
   val numIterations = 100
