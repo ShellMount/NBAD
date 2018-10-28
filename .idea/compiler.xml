@@ -6,12 +6,8 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="DDoS" />
+        <module name="Nbad" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="DDoS" target="1.8" />
-      <module name="NBAD" target="1.5" />
-    </bytecodeTargetLevel>
   </component>
 </project>
