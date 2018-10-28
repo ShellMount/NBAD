@@ -4,4 +4,6 @@
 project/
 production/
 data/
-NBAD.iml
+*.iml
+**/META-INF/
+**/test/
